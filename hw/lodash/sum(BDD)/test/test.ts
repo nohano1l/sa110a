@@ -1,5 +1,5 @@
-import expect from "https://deno.land/x/tdd@v0.6/mod.ts";
-import * as _ from "../sum";
+import { expect } from "https://deno.land/x/tdd@v0.6/mod.ts";
+import * as _ from "../sum.ts";
 
 Deno.test("sum", () => {
     let a = _.sum([4, 2, 8, 6])

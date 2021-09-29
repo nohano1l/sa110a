@@ -11,6 +11,7 @@ Creates a slice of array with n elements dropped from the end.
 $ npm install mocha --global
 ```
 ## Test Result
+Before write the function
 ```
 cxz1d@MSI MINGW64 ~/OneDrive/桌面/nohano1l/sa110a/hw/lodash/dropRight(TDD)/test (master)
 $ mocha dropRight_test.js 
@@ -41,7 +42,9 @@ Require stack:
     at exports.runMocha (C:\Users\cxz1d\AppData\Roaming\npm\node_modules\mocha\lib\cli\run-helpers.js:190:10)
     at Object.exports.handler (C:\Users\cxz1d\AppData\Roaming\npm\node_modules\mocha\lib\cli\run.js:374:11)
     at C:\Users\cxz1d\AppData\Roaming\npm\node_modules\mocha\node_modules\yargs\build\index.cjs:443:71
-
+```
+After write the function
+```
 cxz1d@MSI MINGW64 ~/OneDrive/桌面/nohano1l/sa110a/hw/lodash/dropRight(TDD)/test (master)
 $ mocha dropRight_test.js
 
