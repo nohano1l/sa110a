@@ -116,3 +116,5 @@ P( [ "b", "a", "b", "b" ] )= 0.06055
 ## 參考資料
 
 [維基百科](https://zh.wikipedia.org/wiki/%E8%92%99%E5%9C%B0%E5%8D%A1%E7%BE%85%E6%96%B9%E6%B3%95)
+
+[programmermedia.org](https://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E8%88%87%E6%BC%94%E7%AE%97%E6%B3%95/alg/_doc/03-monteCarlo.md)
