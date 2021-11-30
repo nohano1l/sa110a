@@ -14,7 +14,7 @@
 
 偽亂數是透過改變全域變數來產生亂數，產生的亂數是固定的，也會有分布不均的疑慮，所以常常需要加入時間來產生亂數
 
-[random2.js](https://github.com/nohano1l/sa110a/blob/main/hw/midproject/random/random2.js)
+[random2.js](https://github.com/nohano1l/sa110a/blob/master/hw/midproject/random/random2.js)
 ```
 $ deno run random2Test.js
 0.45231413352303207
@@ -41,7 +41,7 @@ $ deno run random2Test.js
 0.04474068386480212
 ```
 
-[random.js]()
+[random.js](https://github.com/nohano1l/sa110a/blob/master/hw/midproject/random/random.js)
 
 ```
 $ deno run randomTest.js
@@ -74,7 +74,7 @@ $ deno run randomTest.js
 
 ![沒有很喜歡這張圖，但還是放一下](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pi_30K.gif/330px-Pi_30K.gif)
 
-[monteCarloPi.js]()
+[monteCarloPi.js](https://github.com/nohano1l/sa110a/blob/master/hw/midproject/monte/monteCarloPi.js)
 ```
 $ node monteCarloPi.js 
 MonteCarloPi(1000000)= 3.141028
@@ -89,11 +89,11 @@ MonteCarloPi(1000000)= 3.143348
 
 ![跟下面的程式碼沒關係，但還是放一下](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Markovkate_01.svg/330px-Markovkate_01.svg.png)
 
-[prob.js]()
+[prob.js](https://github.com/nohano1l/sa110a/blob/master/hw/midproject/markov/prob.js)
 
 ### 確定性機率
 
-[markov.js]()
+[markov.js](https://github.com/nohano1l/sa110a/blob/master/hw/midproject/markov/markov.js)
 
 ```
 $ deno run markov.js 
@@ -102,7 +102,7 @@ P( [ "b", "a", "b", "b" ] )= 0.06
 
 ### 蒙地卡羅馬可夫鏈
 
-[mcmc.js]()
+[mcmc.js](https://github.com/nohano1l/sa110a/blob/master/hw/midproject/markov/mcmc.js)
 
 ```
 $ deno run mcmc.js
