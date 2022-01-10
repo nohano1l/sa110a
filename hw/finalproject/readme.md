@@ -4,7 +4,7 @@
 unity內建的test runner製作單元測試可測unity兩種環境，Play Mode和Editor Mode。
 
 1. 新建項目，在 Assets 目錄下創建 Scripts 文件夾。
-2. 在 Assets/Scripts 下新建一個C# 腳本作為待測試模塊，命名為[SampleClass.cs]()
+2. 在 Assets/Scripts 下新建一個C# 腳本作為待測試模塊，命名為[SampleClass.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/script/SampleClass.cs)
 3. 新建項目，在 Assets 目錄下創建 Tests 文件夾。
 4. 點擊 Window -> General -> Test Runner
 5. 在 Assets/Scripts 下新建一個 Assembly Definition，命名為Scripts
@@ -17,11 +17,11 @@ unity內建的test runner製作單元測試可測unity兩種環境，Play Mode�
 8. 點擊 Assets/Tests/EditMode/EditMode.asmdef，在 Assembly Definition References 加入 Scripts ，並且 Apply
 9. 點擊 Test Runner/EditMode/Run All
 
-[Calculator.cs]()
+[Calculator.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/editmode/Calculate.cs)
 
-[SampleTests.cs]()
+[SampleTests.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/editmode/SampleTests.cs)
 
-![edittest_demo]()
+![edittest_demo](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/image/editmode.png)
 
 ### Play Mode
 
@@ -30,15 +30,15 @@ unity內建的test runner製作單元測試可測unity兩種環境，Play Mode�
 12. 點擊 Assets/Tests/PlayMode/PlayMode.asmdef，在 Assembly Definition References 加入 Scripts ，並且 Apply
 13. 點擊 Test Runner/PlayMode/Run All
 
-[SenceLoading.cs]()
+[SenceLoading.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/playmode/SenceLoading.cs)
 
 ```
 注意:記得在 File/Build Setting 把場景加進去!
 ```
 
-[ShouldUpdatePosition.cs]()
+[ShouldUpdatePosition.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/playmode/ShouldUpdatePosition.cs)
 
-![playtest_demo]()
+![playtest_demo](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/image/playmode.png)
 
 ## 重點釐清
 
