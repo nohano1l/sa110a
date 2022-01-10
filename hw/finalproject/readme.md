@@ -30,7 +30,7 @@ unity內建的test runner製作單元測試可測unity兩種環境，Play Mode�
 12. 點擊 Assets/Tests/PlayMode/PlayMode.asmdef，在 Assembly Definition References 加入 Scripts ，並且 Apply
 13. 點擊 Test Runner/PlayMode/Run All
 
-[SenceLoading.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/playmode/SenceLoading.cs)
+[SenceLoading.cs](https://github.com/nohano1l/sa110a/blob/master/hw/finalproject/playmode/SceneLoading.cs)
 
 ```
 注意:記得在 File/Build Setting 把場景加進去!
