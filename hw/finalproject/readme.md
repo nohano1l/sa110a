@@ -1,3 +1,12 @@
+### 腳本(複製)
+以下腳本皆是複製參考資料的腳本(有小部分自己理解後，加入註解)
+### 重點釐清(複製)
+重點釐清是複製參考資料的關鍵知識點(有自己理解後，取出自己覺得比較重要的部分)
+### 執行步驟(模仿)
+執行步驟皆是自己實作後，把參考資料沒寫到的部分，或事實做遇到的問題加進去
+### 圖片(原創)
+圖片是自己實做完後，電腦的截圖
+
 # Unit Test in Unity
 
 ## Unity Test Runner
@@ -54,3 +63,5 @@ unity內建的test runner製作單元測試可測unity兩種環境，Play Mode�
 [Unit Test in Unity(筆記1)](https://hackmd.io/@jackchen/rkNRwuLmI)
 
 [單元測試簡介](https://blog.csdn.net/techfield/article/details/82970557)
+
+[Unit Tests in Unity](https://www.youtube.com/watch?v=PDYB32qAsLU&ab_channel=InfallibleCode)

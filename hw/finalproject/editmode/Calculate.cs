@@ -13,7 +13,7 @@ public class TestScript
 
         var score = Calculator.ScoreCount();
 
-        Assert.That(score, Is.EqualTo(result));
+        Assert.That(score, Is.EqualTo(result));     //判斷score是否等於result
     }
 }
 public class Calculator
@@ -29,7 +29,7 @@ public class Calculator
         this.pointer = pointer;
     }
 
-    public float ScoreCount()
+    public float ScoreCount()   //計算
     {
         float _value = 0;
 
